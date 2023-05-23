@@ -1,0 +1,29 @@
+https://www.codecademy.com/courses/learn-css/lessons/learn-css-setup-and-syntax/exercises/review
+1) inline, internal, external css
+
+2) type, class, attribute, id selectors, universal selector(*)
+    CSS can select HTML elements by type(tag name), class, ID, and attribute.
+
+3) pseudo selectors
+    An element can have different states using the pseudo-class selector.
+
+4) classes and ids (multiple classes to a single tag seperated by space)
+    Multiple CSS classes can be applied to one HTML element.
+
+5) specificity
+    Classes can be reusable, while IDs can only be used once.
+    IDs are more specific than classes, and classes are more specific than type. That means IDs will override any styles from a class, 
+    and classes will override any styles from a type selector.
+
+6) chaining
+    Combining multiple selectors, which we will refer to as chaining.
+    Multiple selectors can be chained together to select an element. This raises the specificity but can be necessary.
+
+7) Descendant Combinator
+    Nested elements can be selected by separating selectors with a space
+
+8) Chaining and Specificity
+    specificity increases with additional selectors
+
+9) Multiple Selectors seperated by comma
+    Multiple unrelated selectors can receive the same styles by separating the selector names with commas.
