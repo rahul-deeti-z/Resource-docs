@@ -48,4 +48,4 @@ css pseudo elements:
  
  some isolated properties
  ----------------------------
- clear, content  
+ clear, content, box-shadow  
