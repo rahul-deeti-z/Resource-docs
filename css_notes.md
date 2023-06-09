@@ -2,7 +2,7 @@ CSS
 --------------
 Font
 -----
-font-family
+font-family  
 font-size
 font-weight
 font-style
